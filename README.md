@@ -1,2 +1,10 @@
-# python3_dataStructures
-Looking at Basic Data Structures in Python 3
+# Python 3: Basic Data Structures
+
+Organizing Jupyter Notes for Python 3 Basic Data Structures.
+
+## Topics Covered:
+- Matrices
+- List Comprenhension
+- Map() & Filter() to Create Lists
+- Tuples
+- Dictionaries
