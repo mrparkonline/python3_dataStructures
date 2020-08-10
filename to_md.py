@@ -12,7 +12,7 @@ print('-- Notes to be converted to markdown:')
 print(notes)
 
 for note in notes:
-    command = 'jupyter nbconvert --to markdown \'' + note + '\''
+    command = 'jupyter nbconvert --output-dir=\'./markdown\' --to markdown \'' + note + '\''
     print('Current command:', command)
     system(command)
 
